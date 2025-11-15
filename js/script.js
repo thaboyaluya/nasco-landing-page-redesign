@@ -72,7 +72,6 @@ counters.forEach(counter => {
     autoplay: true,
     autoplayTimeout: 10000,
     animateOut: "fadeOut",
-    margin: 20,
     nav: false,
     dots: true ,
         responsive: {
