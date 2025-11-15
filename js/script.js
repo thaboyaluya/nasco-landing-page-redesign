@@ -74,8 +74,7 @@ counters.forEach(counter => {
     animateOut: "fadeOut",
     margin: 20,
     nav: false,
-    dots: true,
-     lazyLoad: true, 
+    dots: true ,
         responsive: {
         0: { items: 1 },
         480: { items: 1 },
@@ -92,8 +91,7 @@ counters.forEach(counter => {
       autoplay: true,
       autoplayTimeout: 2500,
       nav: false,
-      dots: true,
-       lazyLoad: true, 
+      dots: true, 
       animateOut: "fadeOut"
     });
   });
