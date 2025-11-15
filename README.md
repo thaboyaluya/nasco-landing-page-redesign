@@ -26,12 +26,17 @@ A modern redesign of NASCO Group’s landing page, built with **Tailwind CSS**, 
 
 ## 📁 Repository Structure
 
+## Repository Structure
+
+
+```
 nasco-landing-page-redesign/
 ├── assets/ # Images, icons, fonts, etc.
 ├── css/ # Tailwind build & custom CSS
 ├── js/ # JavaScript (carousel init, etc.)
 ├── index.html # Main landing page
-└── README.md # This file
+└── README.md # Project documentation
+```
 
 ---
 
