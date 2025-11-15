@@ -26,9 +26,6 @@ A modern redesign of NASCO Group’s landing page, built with **Tailwind CSS**, 
 
 ## 📁 Repository Structure
 
-## Repository Structure
-
-
 ```
 nasco-landing-page-redesign/
 ├── assets/ # Images, icons, fonts, etc.
