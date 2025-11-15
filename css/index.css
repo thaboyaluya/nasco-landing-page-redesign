@@ -1,0 +1,21 @@
+@import "tailwindcss";
+body{
+    font-family:"Geist", sans-serif;
+      font-style: normal;
+        font-weight: 300;
+}
+  path.light-red {
+    fill: #b02027;
+}
+path.dark-grey {
+    fill: #001e61;
+}
+  .owl-theme .owl-dots .owl-dot span {
+ 
+    @apply bg-red-100!;
+
+  }
+  .owl-theme .owl-dots .owl-dot.active span {
+ @apply bg-red-700!;
+   
+  }

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.17",
+    "tailwindcss": "^4.1.17"
+  },
+    "scripts": {
+    "redesign": "npx @tailwindcss/cli -i ./css/index.css -o ./css/redesign.css --minify --watch"
+  }
+}
